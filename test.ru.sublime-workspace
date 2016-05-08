@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show_",
+				"show_404"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/dina/www/lanovale.com/application/views/main.php",
+			"settings":
+			{
+				"buffer_size": 11041,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dina/www/lanovale.com/application/controllers/main.php",
+			"settings":
+			{
+				"buffer_size": 39542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dina/www/lanovale.com/application/views/single_category.php",
+			"settings":
+			{
+				"buffer_size": 8601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dina/www/lanovale.com/application/views/single_brands.php",
+			"settings":
+			{
+				"buffer_size": 9614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/dina/www/lanovale.com/application/views/shell/head.php",
+			"settings":
+			{
+				"buffer_size": 4157,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dina/www/lanovale.com",
+		"/home/dina/www/lanovale.com/application",
+		"/home/dina/www/lanovale.com/application/views"
+	],
+	"file_history":
+	[
+		"/home/dina/www/lanovale.com/access.log",
+		"/home/dina/www/test.ru/app/cache/dev/classes.php",
+		"/home/dina/www/lanovale.com/application/views/shell/header.php",
+		"/home/dina/www/lanovale.com/application/config/database.php",
+		"/home/dina/www/test.ru/src/MyBundle/Entity/Post.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/dina/www/lanovale.com",
+			"/home/dina/www/lanovale.com/application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".\"page-\"",
+			".'page-'",
+			"'page-'",
+			"page-1/",
+			"http://lanovale.com/brands/casablancapage-1/",
+			"brands/",
+			"brands",
+			"page-",
+			"CURL"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/dina/www/lanovale.com/application/views/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11041,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/dina/www/lanovale.com/application/controllers/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16889,
+								16889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9460.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/dina/www/lanovale.com/application/views/single_category.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4363,
+								4363
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/dina/www/lanovale.com/application/views/single_brands.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3767,
+								3767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1076.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/dina/www/lanovale.com/application/views/shell/head.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "test.ru.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
